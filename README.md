@@ -17,7 +17,7 @@ I enjoy building <b>data pipelines</b>, modern interfaces with <b>smooth animati
 
 ---
 
-### 📄 See my resume! <img src="https://slackmojis.com/emojis/18833-02_cool/download" width="45"/>
+### 📄 See my resume! <img src="https://slackmojis.com/emojis/18833-02_cool/download" width="30"/>
 
 
 [![Resume](https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge)](https://github.com/Rayyan52/Rayyan52/blob/main/Rayyan-DataEngg.pdf)
@@ -34,24 +34,16 @@ I enjoy building <b>data pipelines</b>, modern interfaces with <b>smooth animati
 
 ---
 
-## 🧠 What I'm Working Toward
 
-- Building **data pipelines and scalable backend systems**
-- Learning **machine learning & AI infrastructure**
-- Creating **AI-powered applications**
-- Combining **data engineering with clean interfaces**
+### 🙌 Thank you for visiting! <img src="https://slackmojis.com/emojis/64420-02_cheer/download" width="30"/>
 
 ---
 
-### 🙌 Thank you for visiting! <img src="https://slackmojis.com/emojis/64420-02_cheer/download" width="45"/>
-
----
-
-## ⚡ Fun Facts <img src="https://slackmojis.com/emojis/132490-67/download" width="45"/>
+## ⚡ Fun Facts <img src="https://slackmojis.com/emojis/132490-67/download" width="30"/>
 
 - I don’t drink coffee or tea ☕❌
 - Minecraftaholic and Tolkienist
 - **Favorite anime:** Attack on Titan  
-- **Hobbies:** reading about military history, especially **World War II battles and strategy**
+- **Hobbies:** reading about military history, especially **World War II battles**
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXYxYXhwZ3J0YmpzZmlubDVhOTlkeDRvejYxaWJmZmp1aDhneGRsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zCq3TyuABrRrG/giphy.gif" width="400"/>
