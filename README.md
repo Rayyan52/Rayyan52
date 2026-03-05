@@ -3,12 +3,18 @@
 I’m Rayyan, a software engineer. I like building data pipelines, modern interfaces with smooth animations and keeping things simple.
 
 **These days I’m focused on:**
+
+
 -
 
 - Data Pipelines & ETL
 - React, TypeScript, Tailwind
 - SQL & Data Modeling
 - UI components with subtle motion
+
+**Know about my experiences:**
+
+[![Resume](https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge)](./Rayyan_Resume.pdf)
 
 ---
 
