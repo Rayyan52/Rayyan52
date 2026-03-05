@@ -4,9 +4,6 @@ I’m Rayyan, a software engineer. I like building data pipelines, modern interf
 
 **These days I’m focused on:**
 
-
--
-
 - Data Pipelines & ETL
 - React, TypeScript, Tailwind
 - SQL & Data Modeling
@@ -14,7 +11,7 @@ I’m Rayyan, a software engineer. I like building data pipelines, modern interf
 
 **Know about my experiences:**
 
-[![Resume](https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge)](./Rayyan_Resume.pdf)
+[![Resume](https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge)](https://github.com/Rayyan52/Rayyan52/blob/main/Rayyan-DataEngg.pdf)
 
 ---
 
