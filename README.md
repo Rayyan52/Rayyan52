@@ -6,7 +6,7 @@ I’m Rayyan, a software engineer from Pakistan.
 I enjoy building <b>data pipelines</b>, modern interfaces with <b>smooth animations</b>, and keeping systems simple and efficient.
 </h3>
 
-<h3>🚀 These days I’m focused on:</h3>
+<h3> These days I’m focused on <img src="https://slackmojis.com/emojis/136984-fire-cube/download" width="30"/></h3> 
 
 <ul>
 <li>Data Pipelines & ETL</li>
