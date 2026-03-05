@@ -34,12 +34,7 @@ I enjoy building <b>data pipelines</b>, modern interfaces with <b>smooth animati
 
 ---
 
-
-### 🙌 Thank you for visiting! <img src="https://slackmojis.com/emojis/64420-02_cheer/download" width="30"/>
-
----
-
-## ⚡ Fun Facts <img src="https://slackmojis.com/emojis/132490-67/download" width="30"/>
+## 🙌 Thank you for visiting!  <img src="https://slackmojis.com/emojis/64420-02_cheer/download" width="30"/> Some Fun Facts <img src="https://slackmojis.com/emojis/132490-67/download" width="30"/>
 
 - I don’t drink coffee or tea ☕❌
 - Minecraftaholic and Tolkienist
